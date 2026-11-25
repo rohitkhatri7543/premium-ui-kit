@@ -1,0 +1,17 @@
+{
+  "name": "premium-ui",
+  "version": "3.3.0",
+  "description": "Award-level UI/UX for Flutter and web: concept-first process with live previews, custom rendering and physics, a screenshot + critic loop, performance-safe architecture, and parallel agents matched to task difficulty.",
+  "author": {
+    "name": "Rohit Khatri"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "flutter",
+    "web",
+    "design",
+    "animation",
+    "premium"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "premium-ui-kit",
+  "owner": {
+    "name": "Rohit Khatri"
+  },
+  "plugins": [
+    {
+      "name": "premium-ui",
+      "source": "./",
+      "description": "Award-level UI/UX for Flutter and web: concept-first process, live previews, critic loop, perf-safe architecture, parallel agents."
+    }
+  ],
+  "description": "Award-level UI/UX kit for Claude Code: Flutter + web, concept-first, live previews, critic loop, perf-safe, parallel agents."
+}
